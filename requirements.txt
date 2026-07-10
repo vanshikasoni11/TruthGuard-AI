@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+scikit-learn
+pandas
+numpy
+requests
+python-dotenv
+newsapi-python
