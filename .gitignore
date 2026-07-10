@@ -1,5 +1,7 @@
 .env
 __pycache__/
 *.pyc
-outputs/
 tempCodeRunnerFile.python
+outputs/logs/
+outputs/results/
+outputs/charts/
