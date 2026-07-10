@@ -54,7 +54,7 @@ to provide evidence-backed predictions with real-time verification.
 
 ## Live Application
 
-https://fake-news-detector-uwxww795wdtr9hlwbgusms.streamlit.app/
+https://vanshikasoni11-truthguard-ai-srcstreamlit-app-mqlubq.streamlit.app/
 
 ### Example Features
 
@@ -64,7 +64,6 @@ https://fake-news-detector-uwxww795wdtr9hlwbgusms.streamlit.app/
 - Latest related news
 - Explanation of prediction
 
-screenshots
 
 ---
 
