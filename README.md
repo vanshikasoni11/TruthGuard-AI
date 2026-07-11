@@ -64,6 +64,8 @@ https://vanshikasoni11-truthguard-ai-srcstreamlit-app-mqlubq.streamlit.app/
 - Latest related news
 - Explanation of prediction
 
+<img width="1730" height="838" alt="Screenshot 2026-07-11 123838" src="https://github.com/user-attachments/assets/b9baea6a-ac2c-4183-9741-f2c4e27b6ef9" />
+<img width="1754" height="874" alt="Screenshot 2026-07-11 123813" src="https://github.com/user-attachments/assets/d4c10a79-7bf8-4745-b855-4bdf34b47ea0" />
 
 ---
 
